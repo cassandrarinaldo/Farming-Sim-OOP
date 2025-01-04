@@ -1,0 +1,98 @@
+/Users/cassandrarinaldo/Desktop/FarmSim/FarmSim/bin/Debug/net8.0/FarmSim
+/Users/cassandrarinaldo/Desktop/FarmSim/FarmSim/bin/Debug/net8.0/FarmSim.deps.json
+/Users/cassandrarinaldo/Desktop/FarmSim/FarmSim/bin/Debug/net8.0/FarmSim.runtimeconfig.json
+/Users/cassandrarinaldo/Desktop/FarmSim/FarmSim/bin/Debug/net8.0/FarmSim.dll
+/Users/cassandrarinaldo/Desktop/FarmSim/FarmSim/bin/Debug/net8.0/FarmSim.pdb
+/Users/cassandrarinaldo/Desktop/FarmSim/FarmSim/obj/Debug/net8.0/FarmSim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cassandrarinaldo/Desktop/FarmSim/FarmSim/obj/Debug/net8.0/FarmSim.AssemblyInfoInputs.cache
+/Users/cassandrarinaldo/Desktop/FarmSim/FarmSim/obj/Debug/net8.0/FarmSim.AssemblyInfo.cs
+/Users/cassandrarinaldo/Desktop/FarmSim/FarmSim/obj/Debug/net8.0/FarmSim.csproj.CoreCompileInputs.cache
+/Users/cassandrarinaldo/Desktop/FarmSim/FarmSim/obj/Debug/net8.0/FarmSim.dll
+/Users/cassandrarinaldo/Desktop/FarmSim/FarmSim/obj/Debug/net8.0/refint/FarmSim.dll
+/Users/cassandrarinaldo/Desktop/FarmSim/FarmSim/obj/Debug/net8.0/FarmSim.pdb
+/Users/cassandrarinaldo/Desktop/FarmSim/FarmSim/obj/Debug/net8.0/FarmSim.genruntimeconfig.cache
+/Users/cassandrarinaldo/Desktop/FarmSim/FarmSim/obj/Debug/net8.0/ref/FarmSim.dll
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/farmsim2/FarmSim/FarmSim/obj/Debug/net8.0/FarmSim.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/farmsim2/FarmSim/FarmSim/obj/Debug/net8.0/FarmSim.AssemblyInfoInputs.cache
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/farmsim2/FarmSim/FarmSim/obj/Debug/net8.0/FarmSim.AssemblyInfo.cs
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/farmsim2/FarmSim/FarmSim/obj/Debug/net8.0/FarmSim.csproj.CoreCompileInputs.cache
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/farmsim2/FarmSim/FarmSim/obj/Debug/net8.0/FarmSim.dll
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/farmsim2/FarmSim/FarmSim/obj/Debug/net8.0/refint/FarmSim.dll
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/farmsim2/FarmSim/FarmSim/obj/Debug/net8.0/FarmSim.pdb
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/farmsim2/FarmSim/FarmSim/bin/Debug/net8.0/FarmSim.exe
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/farmsim2/FarmSim/FarmSim/bin/Debug/net8.0/FarmSim.deps.json
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/farmsim2/FarmSim/FarmSim/bin/Debug/net8.0/FarmSim.runtimeconfig.json
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/farmsim2/FarmSim/FarmSim/bin/Debug/net8.0/FarmSim.dll
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/farmsim2/FarmSim/FarmSim/bin/Debug/net8.0/FarmSim.pdb
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/farmsim2/FarmSim/FarmSim/obj/Debug/net8.0/FarmSim.genruntimeconfig.cache
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/farmsim2/FarmSim/FarmSim/obj/Debug/net8.0/ref/FarmSim.dll
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/20241025/FarmSim/bin/Debug/net8.0/FarmSim.exe
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/20241025/FarmSim/bin/Debug/net8.0/FarmSim.deps.json
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/20241025/FarmSim/bin/Debug/net8.0/FarmSim.runtimeconfig.json
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/20241025/FarmSim/bin/Debug/net8.0/FarmSim.dll
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/20241025/FarmSim/bin/Debug/net8.0/FarmSim.pdb
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/20241025/FarmSim/obj/Debug/net8.0/FarmSim.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/20241025/FarmSim/obj/Debug/net8.0/FarmSim.AssemblyInfoInputs.cache
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/20241025/FarmSim/obj/Debug/net8.0/FarmSim.AssemblyInfo.cs
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/20241025/FarmSim/obj/Debug/net8.0/FarmSim.csproj.CoreCompileInputs.cache
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/20241025/FarmSim/obj/Debug/net8.0/FarmSim.dll
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/20241025/FarmSim/obj/Debug/net8.0/refint/FarmSim.dll
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/20241025/FarmSim/obj/Debug/net8.0/FarmSim.pdb
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/20241025/FarmSim/obj/Debug/net8.0/FarmSim.genruntimeconfig.cache
+C:/Users/ÄGARE/OneDrive/Dokument/oop2/20241025/FarmSim/obj/Debug/net8.0/ref/FarmSim.dll
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241027/FarmSim/bin/Debug/net8.0/FarmSim
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241027/FarmSim/bin/Debug/net8.0/FarmSim.deps.json
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241027/FarmSim/bin/Debug/net8.0/FarmSim.runtimeconfig.json
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241027/FarmSim/bin/Debug/net8.0/FarmSim.dll
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241027/FarmSim/bin/Debug/net8.0/FarmSim.pdb
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241027/FarmSim/obj/Debug/net8.0/FarmSim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241027/FarmSim/obj/Debug/net8.0/FarmSim.AssemblyInfoInputs.cache
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241027/FarmSim/obj/Debug/net8.0/FarmSim.AssemblyInfo.cs
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241027/FarmSim/obj/Debug/net8.0/FarmSim.csproj.CoreCompileInputs.cache
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241027/FarmSim/obj/Debug/net8.0/FarmSim.dll
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241027/FarmSim/obj/Debug/net8.0/refint/FarmSim.dll
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241027/FarmSim/obj/Debug/net8.0/FarmSim.pdb
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241027/FarmSim/obj/Debug/net8.0/FarmSim.genruntimeconfig.cache
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241027/FarmSim/obj/Debug/net8.0/ref/FarmSim.dll
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241029 kommenterad/FarmSim/bin/Debug/net8.0/FarmSim
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241029 kommenterad/FarmSim/bin/Debug/net8.0/FarmSim.deps.json
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241029 kommenterad/FarmSim/bin/Debug/net8.0/FarmSim.runtimeconfig.json
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241029 kommenterad/FarmSim/bin/Debug/net8.0/FarmSim.dll
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241029 kommenterad/FarmSim/bin/Debug/net8.0/FarmSim.pdb
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241029 kommenterad/FarmSim/obj/Debug/net8.0/FarmSim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241029 kommenterad/FarmSim/obj/Debug/net8.0/FarmSim.AssemblyInfoInputs.cache
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241029 kommenterad/FarmSim/obj/Debug/net8.0/FarmSim.AssemblyInfo.cs
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241029 kommenterad/FarmSim/obj/Debug/net8.0/FarmSim.csproj.CoreCompileInputs.cache
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241029 kommenterad/FarmSim/obj/Debug/net8.0/FarmSim.dll
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241029 kommenterad/FarmSim/obj/Debug/net8.0/refint/FarmSim.dll
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241029 kommenterad/FarmSim/obj/Debug/net8.0/FarmSim.pdb
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241029 kommenterad/FarmSim/obj/Debug/net8.0/FarmSim.genruntimeconfig.cache
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241029 kommenterad/FarmSim/obj/Debug/net8.0/ref/FarmSim.dll
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241030/FarmSim/bin/Debug/net8.0/FarmSim
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241030/FarmSim/bin/Debug/net8.0/FarmSim.deps.json
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241030/FarmSim/bin/Debug/net8.0/FarmSim.runtimeconfig.json
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241030/FarmSim/bin/Debug/net8.0/FarmSim.dll
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241030/FarmSim/bin/Debug/net8.0/FarmSim.pdb
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241030/FarmSim/obj/Debug/net8.0/FarmSim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241030/FarmSim/obj/Debug/net8.0/FarmSim.AssemblyInfoInputs.cache
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241030/FarmSim/obj/Debug/net8.0/FarmSim.AssemblyInfo.cs
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241030/FarmSim/obj/Debug/net8.0/FarmSim.csproj.CoreCompileInputs.cache
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241030/FarmSim/obj/Debug/net8.0/FarmSim.dll
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241030/FarmSim/obj/Debug/net8.0/refint/FarmSim.dll
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241030/FarmSim/obj/Debug/net8.0/FarmSim.pdb
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241030/FarmSim/obj/Debug/net8.0/FarmSim.genruntimeconfig.cache
+/Users/cassandrarinaldo/Desktop/SYSUTV/20241030/FarmSim/obj/Debug/net8.0/ref/FarmSim.dll
+/Users/cassandrarinaldo/Desktop/SYSUTV/Grupp 22 Projekt/FarmSim/bin/Debug/net8.0/FarmSim
+/Users/cassandrarinaldo/Desktop/SYSUTV/Grupp 22 Projekt/FarmSim/bin/Debug/net8.0/FarmSim.deps.json
+/Users/cassandrarinaldo/Desktop/SYSUTV/Grupp 22 Projekt/FarmSim/bin/Debug/net8.0/FarmSim.runtimeconfig.json
+/Users/cassandrarinaldo/Desktop/SYSUTV/Grupp 22 Projekt/FarmSim/bin/Debug/net8.0/FarmSim.dll
+/Users/cassandrarinaldo/Desktop/SYSUTV/Grupp 22 Projekt/FarmSim/bin/Debug/net8.0/FarmSim.pdb
+/Users/cassandrarinaldo/Desktop/SYSUTV/Grupp 22 Projekt/FarmSim/obj/Debug/net8.0/FarmSim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cassandrarinaldo/Desktop/SYSUTV/Grupp 22 Projekt/FarmSim/obj/Debug/net8.0/FarmSim.AssemblyInfoInputs.cache
+/Users/cassandrarinaldo/Desktop/SYSUTV/Grupp 22 Projekt/FarmSim/obj/Debug/net8.0/FarmSim.AssemblyInfo.cs
+/Users/cassandrarinaldo/Desktop/SYSUTV/Grupp 22 Projekt/FarmSim/obj/Debug/net8.0/FarmSim.csproj.CoreCompileInputs.cache
+/Users/cassandrarinaldo/Desktop/SYSUTV/Grupp 22 Projekt/FarmSim/obj/Debug/net8.0/FarmSim.dll
+/Users/cassandrarinaldo/Desktop/SYSUTV/Grupp 22 Projekt/FarmSim/obj/Debug/net8.0/refint/FarmSim.dll
+/Users/cassandrarinaldo/Desktop/SYSUTV/Grupp 22 Projekt/FarmSim/obj/Debug/net8.0/FarmSim.pdb
+/Users/cassandrarinaldo/Desktop/SYSUTV/Grupp 22 Projekt/FarmSim/obj/Debug/net8.0/FarmSim.genruntimeconfig.cache
+/Users/cassandrarinaldo/Desktop/SYSUTV/Grupp 22 Projekt/FarmSim/obj/Debug/net8.0/ref/FarmSim.dll
